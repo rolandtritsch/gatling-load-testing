@@ -19,6 +19,7 @@
     <root level="ERROR">
     <root level="INFO">
     <root level="DEBUG">
+    <root level="TRACE">
     -->
     <root level="WARN">
         <appender-ref ref="CONSOLE" />
